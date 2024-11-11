@@ -211,6 +211,10 @@ public class MyLinkedList {
             fast = fast.next.next;
         }
         return slow;
+
+    }
+    public love(){
+
     }
 
 }
